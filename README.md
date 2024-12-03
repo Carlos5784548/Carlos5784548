@@ -1,27 +1,26 @@
-<h1 align="center">Mi nombre es Francisco! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
+<h1 align="center">Mi nombre es Carlos! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
 <!--Banner-->
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
 <!--Night Owl image-->
 <!--Header Name-->
-*Estudiante en Desarrollo de software y diversos cursos*
+*Estudiante en Ingenieria en informatica  y diversos cursos *
 <br /> 
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" align="right" width="200"/>
 
 <!--Start Intro-->               
-<p align="left">Hola! Tengo 22 años, soy de Santa Fe, Argentina y estudio en la carrera de Desarrollo de Software </br> por la mañana y por la tarde realizo cursos para un desarrollo más hamplio en la programación.</p>
+<p align="left">Hola! Tengo 23 años, soy de Santa Fe, Argentina estoy recibido de Técnico Universitario en Informática aplicada al Diseño Multimedia y de Sitios Web </br> por la mañana y por la tarde realizo cursos para un desarrollo más hamplio en la programación.</p>
 
 <p align="left">
-🎓 ESTUDIANTE DESARROLLADOR DE SOFTWARE
-
+🎓 ESTUDIANTE Ingenieria en informatica
 
 💻 Sin experiencias, pero con conocimientos para aplicarlos en cualquiér situación labolal y con muchas energias e ideas.
 
 📝 roles en el ámbito: desarrollador... diseñador... programador freelance... y en un futuro quién sabe ☺️
 
-📫 Contacto: **franciscobonfanti01@gmail.com**
+📫 Contacto: **carlospedrotrod@gmail.com**
 
 <!--End Intro-->
 
