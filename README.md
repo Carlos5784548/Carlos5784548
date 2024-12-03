@@ -11,7 +11,7 @@
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" align="right" width="200"/>
 
 <!--Start Intro-->               
-<p align="left">Hola! Tengo 23 años, soy de Santa Fe, Argentina estoy recibido de Técnico Universitario en Informática aplicada al Diseño Multimedia y de Sitios Web </br> por la mañana y por la tarde realizo cursos para un desarrollo más hamplio en la programación.</p>
+<p align="left">Hola! Tengo 23 años, soy de Santa Fe, Argentina estoy recibido de Técnico Universitario en Informática aplicada al Diseño Multimedia y de Sitios Web.</br> por la mañana y por la tarde realizo cursos para un desarrollo más hamplio en la programación.</p>
 
 <p align="left">
 🎓 ESTUDIANTE Ingenieria en informatica
@@ -85,6 +85,4 @@
 
 ------
 
-Credit: [FranciscoBonfanti](https://github.com/FranciscoBonfanti)
 
-Last Edited on: 07/09/2024# Francisco Bonfanti
