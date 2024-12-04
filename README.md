@@ -38,8 +38,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="height: 4rem"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="height: 4rem"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" style="height: 4rem"/>
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg](https://www.vectorlogo.zone/logos/java/java-vertical.svg)" style="height: 4rem"/>
-  <img src="" style="height: 4rem"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" style="height: 4rem"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="height: 4rem; background-color:white"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="height: 4rem"/>
@@ -65,16 +63,12 @@
 
 <h2 align="center">🤝 Contáctame 🤝 </h2>
 <div align="center">
-  <a href="https://www.linkedin.com/in/francisco-bonfanti/" target="_blank">
+  <a href="www.linkedin.com/in/carlos-pedro-trod-b4a0a4242" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
   </a>
   
-  <a href="mailto:franciscobonfanti01@gmail.com" target="_blank">
+  <a href="mailto:carlospedrotrod@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;" />
-  </a>
-
-  <a href="https://www.instagram.com/fran_bonfanti/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom: 5px;" />
   </a>
 </div>
 
