@@ -52,9 +52,7 @@
 <h2 align="center">🌟 Pensamiento del día 🌟</h2>
 
 <!--STARTS_HERE_QUOTE_CARD-->
-<p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Fran&quote=Programa%20o%20serás%20programado.&theme=dark&bg_color=011627&author_color=ffeb95">
-</p>
+
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
